@@ -27,7 +27,7 @@
 </br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouzi&layout=compact&text_color=2234AE&bg_color=0,000000,130F40)](https://github.com/khouzi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouzi&layout=compact&text_color=2234AE&bg_color=130F40)](https://github.com/khouzi/github-readme-stats)
 
 <a href="http://www.github.com/khouzi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khouzi&stroke=ffffff&background=130F40&ring=2234AE&fire=2234AE&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 

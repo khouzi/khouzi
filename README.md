@@ -29,6 +29,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouzi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/khouzi/github-readme-stats)
 
+
+<a href="http://www.github.com/khouzi"><img src="https://activity-graph.herokuapp.com/graph?username=khouzi&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">

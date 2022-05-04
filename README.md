@@ -31,7 +31,7 @@
 
 <a href="http://www.github.com/khouzi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=khouzi&stroke=ffffff&background=130F40&ring=2234AE&fire=2234AE&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/khouzi"><img src="https://activity-graph.herokuapp.com/graph?username=khouzi&bg_color=130F40&color=ffffff&line=0891b2&point=2234AE&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/khouzi"><img src="https://activity-graph.herokuapp.com/graph?username=khouzi&bg_color=130F40&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <h3> 🤝🏻 Connect with Me </h3>
 

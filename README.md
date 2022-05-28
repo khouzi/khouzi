@@ -7,7 +7,6 @@
 
 - 🔭 &nbsp; I’m currently learning Game Development.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
@@ -17,7 +16,7 @@
 - 🌐 &nbsp; Android | flutter 
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop
+- 🖥 &nbsp; Unity | UE4/5 | Adobe Illustrator | Adobe Photoshop
 
 <br>
 

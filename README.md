@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development.
+- 🔭 &nbsp; I’m currently learning Game Development.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Android developer and front-end web developer.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.

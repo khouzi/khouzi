@@ -13,9 +13,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | C | HTML | CSS 
-- 🛢 &nbsp; MySQL
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Unity | UE4/5 | Adobe Illustrator | Adobe Photoshop
+- 🖥 &nbsp; Unity | UE4/5 | Adobe Illustrator
 
 <br>
 

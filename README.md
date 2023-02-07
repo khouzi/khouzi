@@ -12,9 +12,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C | HTML | CSS 
+- 💻 &nbsp; Python | C | HTML | CSS | C# 
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Unity | UE4/5 | Adobe Illustrator
+- 🖥 &nbsp; Unity | Adobe Illustrator | Blender
 
 <br>
 
